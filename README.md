@@ -10,6 +10,7 @@ This project provides an interactive dashboard using **Streamlit** that helps an
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
+- [Demo](#Demo)
 
 ## Features
 - **Aggregate Metrics**: Display aggregated video data like views, likes, engagement ratio, etc., for the last 6 and 12 months.
