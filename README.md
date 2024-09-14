@@ -80,7 +80,8 @@ If you'd like to contribute to the project:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request.
 
-## Demo : Some Examples
+## Demo 
+### Some Examples
 
 ![Demo Picture](https://github.com/sahartriki/youtube_dashboard/blob/master/img/1.png)
 ![Demo Picture](https://github.com/sahartriki/youtube_dashboard/blob/master/img/2.png)
